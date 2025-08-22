@@ -1,0 +1,12 @@
+.toggle{
+     background-color: red;
+     padding: 10px 20px;
+     color: white;
+     cursor: pointer;
+}
+.info{
+     background-color: green;
+     padding: 10px 20px; 
+     color: white;
+     display: none;
+}
